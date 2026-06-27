@@ -34,11 +34,11 @@ This project was developed as part of the Programming Fundamentals course.
 ## How to Run
 1. Clone or download the repository.  
 2. Open the project in any C IDE (e.g., Dev-C, Code::Blocks, Turbo C).  
-3. Compile and run `Final PF Project.c`.  
+3. Compile and run ` Project.PF.c`.  
 4. Follow the on-screen menu to interact with Admin, Employee, or Customer sections.  
 
 ## Project Structure
-- `Final PF Project.c` → Main source code  
+- `Project.PF.c` → Main source code  
 - `README.md` → Project description  
 - `products.txt` → Stores product details  
 - `customers.txt` → Stores customer accounts  

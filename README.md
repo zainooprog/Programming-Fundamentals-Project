@@ -4,21 +4,21 @@ A Bakery Management System built in **C language** for managing products, custom
 This project was developed as part of the Programming Fundamentals course.
 
 ## Features
-- Admin Panel  
+- **Admin Panel**  
   - Add, delete, search, update products  
   - View inventory  
   - View sales log  
   - Sort products by price  
   - Show most expensive item  
 
-- Employee Panel  
+- **Employee Panel**  
   - Login with employee credentials  
   - Add, delete, search, update products  
   - Verify payments  
   - Approve or reject pending orders  
   - View inventory and sales log  
 
-- Customer Panel  
+- **Customer Panel**  
   - Sign up and login  
   - Browse menu  
   - Add items to cart  

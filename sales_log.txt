@@ -1,0 +1,14 @@
+==========================================
+Customer : Ali
+------------------------------------------
+Item                      Qty    Amount
+------------------------------------------
+Chocolate Cake            2      Rs 1700.00
+Croissant                 3      Rs 360.00
+------------------------------------------
+TOTAL    : Rs 2060.00
+STATUS   : Pending Approval
+==========================================
+
+>> ORDER APPROVED by Employee: employee1
+>> Customer: Ali | Total: Rs 2060.00
